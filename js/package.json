@@ -1,0 +1,17 @@
+{
+  "name": "flightapp",
+  "version": "1.0.0",
+  "description": "flight location application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "cors": "^2.8.4",
+    "express": "*",
+    "uniq": "^1.0.1"
+  },
+  "author": "Milan Dukic",
+  "license": "ISC"
+}
